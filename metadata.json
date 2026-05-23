@@ -1,0 +1,6 @@
+{
+  "name": "Personal Task Lists",
+  "description": "An elegant, interactive personal task manager for organizing, scheduling, and tracking your daily tasks and custom lists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
